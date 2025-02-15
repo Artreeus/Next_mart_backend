@@ -62,7 +62,7 @@ The following `.env` configuration is required to run the project:
 NODE_ENV=development
 
 # Port
-PORT=3001
+PORT=5000
 
 # Database URL
 DB_URL="mongodb+srv://<username>:<password>@cluster0.mongodb.net/<db_name>?retryWrites=true&w=majority"
