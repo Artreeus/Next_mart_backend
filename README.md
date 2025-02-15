@@ -49,7 +49,7 @@ Follow the steps below to set up and run the project locally:
    npm run dev
    ```
 
-5. Access the application on `http://localhost:3001`.
+5. Access the application on `http://localhost:5000`.
 
 ---
 
