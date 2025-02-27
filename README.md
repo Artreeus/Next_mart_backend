@@ -1,5 +1,6 @@
 # NextMart - Server
 
+
 NextMart is a robust and scalable backend solution for an e-commerce platform. It handles user authentication, product management, order processing, payment integration, and more. Built with Node.js, Express.js, and MongoDB, this project is designed for high performance and flexibility.
 
 ---
@@ -49,7 +50,7 @@ Follow the steps below to set up and run the project locally:
    npm run dev
    ```
 
-5. Access the application on `http://localhost:5000`.
+5. Access the application on `http://localhost:3001`.
 
 ---
 
@@ -62,7 +63,7 @@ The following `.env` configuration is required to run the project:
 NODE_ENV=development
 
 # Port
-PORT=5000
+PORT=3001
 
 # Database URL
 DB_URL="mongodb+srv://<username>:<password>@cluster0.mongodb.net/<db_name>?retryWrites=true&w=majority"
@@ -121,4 +122,7 @@ CANCEL_URL="<your_cancel_url>"
 
 ## API Documentation
 
-[https://documenter.getpostman.com/view/28371413/2sAYQXpCyd](https://documenter.getpostman.com/view/28371413/2sAYQXpCyd)"# Next_mart_backend" 
+[https://documenter.getpostman.com/view/28371413/2sAYQXpCyd](https://documenter.getpostman.com/view/28371413/2sAYQXpCyd)
+
+**NextMart** is a single-vendor e-commerce platform. This repository contains the server-side implementation, providing robust backend services and APIs to power the platform.
+
